@@ -1,4 +1,4 @@
-pipeline111{
+pipeline{
         agent any
         stages{
             stage('Make Directory'){
